@@ -23,7 +23,8 @@ const App = () => {
         <h1 className="App-title">Bienvenue sur le blind test</h1>
       </header>
       <div className="App-images">
-        <p>Il va falloir modifier le code pour faire un vrai blind test !</p>
+        <p>Il va falloir modifier le code pour fai un vrai blind test !</p>
+        <button onClick={goToNextTrack}>AAAAAAAAAAAAAAA</button>
       </div>
       <div className="App-buttons"></div>
     </div>
